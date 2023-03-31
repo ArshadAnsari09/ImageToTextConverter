@@ -1,6 +1,7 @@
 Image To Text Converter is the web application that is used to read the text from image.
 
 It has developed using Node.js and Html.
+npm packages used - tesseract.js , body-parser and express
 
 To use this web application you need to do some baisc steps
 1. Download the zip file or code in your computer then use any IDE like VSCODE.
